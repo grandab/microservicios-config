@@ -9,4 +9,3 @@ eureka:
     register-with-eureka: true
     service-url:
       defaultZone: http://localhosta:8761/eureka
-
